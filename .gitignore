@@ -28,24 +28,12 @@ env.bak/
 # Pytest/cache
 .pytest_cache/
 
-# mypy
-.mypy_cache/
-
-# coverage
-.coverage
-coverage.xml
-htmlcov/
-
-# PyCharm
-.idea/
 
 # Django stuff:
 # local SQLite DB
 *.sqlite3
 *.db
 
-# Flask instance folder
-instance/
 
 # Alembic / migrations (keep source but ignore compiled cache)
 alembic/versions/__pycache__/
